@@ -1,12 +1,12 @@
   
 # Movie App
-<li>Este é um projeto de aplicativo de filmes desenvolvido em React.js. O aplicativo permite aos usuários visualizar os filmes em cartaz, suas avaliações, sinopse, trailers e salvar filmes em uma lista personalizada. <li/>
+<li>Este é um projeto de aplicativo de filmes desenvolvido em React.js. O aplicativo permite aos usuários visualizar os filmes em cartaz, suas avaliações, sinopse, trailers e salvar filmes em uma lista personalizada. 
 
 Funcionalidades
-<li> Visualizar filmes em cartaz <li/>
-<li> Ver avaliações, sinopse e trailers dos filmes <li/>
-<li> Salvar filmes na lista de favoritos <li/>
-<li> Excluir filmes da lista de Favoritos <li/>
+<li> Visualizar filmes em cartaz 
+<li> Ver avaliações, sinopse e trailers dos filmes 
+<li> Salvar filmes na lista de favoritos 
+<li> Excluir filmes da lista de Favoritos 
   
 # API
 Este projeto utiliza a API do https://www.themoviedb.org/settings/api  para obter informações sobre os filmes. Certifique-se de obter uma chave de API válida para acessar os dados da API.
