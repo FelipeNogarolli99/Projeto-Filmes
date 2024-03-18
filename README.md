@@ -2,7 +2,7 @@
 # Movie App
 <li>Este é um projeto de aplicativo de filmes desenvolvido em React.js. O aplicativo permite aos usuários visualizar os filmes em cartaz, suas avaliações, sinopse, trailers e salvar filmes em uma lista personalizada. 
 
-Funcionalidades
+# Funcionalidades
 <li> Visualizar filmes em cartaz 
 <li> Ver avaliações, sinopse e trailers dos filmes 
 <li> Salvar filmes na lista de favoritos 
@@ -22,6 +22,20 @@ Para iniciar o aplicativo, execute o seguinte comando:
 ![image](https://github.com/FelipeNogarolli99/Projeto-Filmes/assets/106127810/f1186889-8613-4078-9a8f-be8d56b0a319)
 
 O aplicativo estará disponível em http://localhost:3000 por padrão.
+
+# Link
+<li> O sistema foi hospedado na plataforma netlify</li>
+<li> Para ver o projeto na integra https://projeto-filmes-fnm.netlify.app/ </li>
+
+# Visão geral do sistema 
+
+![image](https://github.com/FelipeNogarolli99/Projeto-Filmes/assets/106127810/d3d1997c-e30a-40f5-bfbf-2c95a1b7e51e)
+
+![image](https://github.com/FelipeNogarolli99/Projeto-Filmes/assets/106127810/424615d4-b0d4-4ae6-a25d-afecb8aaf450)
+
+![image](https://github.com/FelipeNogarolli99/Projeto-Filmes/assets/106127810/a39ab8b2-a153-420e-9619-45dd4024e707)
+
+![image](https://github.com/FelipeNogarolli99/Projeto-Filmes/assets/106127810/e5beb4fa-5fcb-42f6-8ee0-335a83ab2e30)
 
 
  # Tecnologias Utilizadas
